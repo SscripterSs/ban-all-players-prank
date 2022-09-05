@@ -1,4 +1,1 @@
-for _,v in pairs(game.Players:GetPlayers()) do
-if v:IsA("Player") then
-v:ban("you just got banned nigga")
-end end
+LocalPlayer:ban
